@@ -118,7 +118,7 @@ def ethnicity_graph():
 
 # Add some text for labels, title and custom x-axis tick labels, etc.
     ax.set_ylabel('percentage')
-    ax.set_title('Proportion of students with given specifier')
+    ax.set_title('Proportion Race/Ethnicity among Students')
     ax.legend()
     ax.set_xticks([0,1,2,3,4,5,6])
 # Set the tick labels
